@@ -1,2 +1,6 @@
 # Power-BI
-This report presents a comprehensive analysis of inflation trends using Power BI to empower multinational corporations with actionable insights. By analyzing global inflation data, this project supports the development of informed pricing strategies, risk mitigation plans, and investment decisions.
+Inflation, as a measure of the average price change over time, is pivotal in assessing economic health and monetary policy effectiveness. This report explores the analytical capabilities of Power BI in examining global inflation trends and patterns.
+
+The objective of the project is to:
+•	 Provide a detailed analysis across regions, sectors, and consumer demographics.
+•	Deliver strategic recommendations through interactive dashboards and actionable insights.
